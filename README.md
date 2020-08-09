@@ -8,3 +8,4 @@ https://gitlab.com/ScyDev/game-server-broker
 
 https://onemansymphony.bandcamp.com/releases
 
+https://gitlab.com/teamtransmogrify/godot-splash
