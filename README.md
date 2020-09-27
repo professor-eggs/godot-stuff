@@ -11,3 +11,5 @@ https://onemansymphony.bandcamp.com/releases
 https://gitlab.com/teamtransmogrify/godot-splash
 
 https://github.com/Lynext/GodotSoftBody2D
+
+https://deepnight.net/tools/led-2d-level-editor/
