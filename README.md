@@ -13,3 +13,6 @@ https://gitlab.com/teamtransmogrify/godot-splash
 https://github.com/Lynext/GodotSoftBody2D
 
 https://deepnight.net/tools/led-2d-level-editor/
+
+https://www.reddit.com/r/godot/comments/j1yiub/-/g723z0i
+
