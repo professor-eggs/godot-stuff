@@ -16,3 +16,5 @@ https://deepnight.net/tools/led-2d-level-editor/
 
 https://www.reddit.com/r/godot/comments/j1yiub/-/g723z0i
 
+FSM
+https://github.com/imjp94/gd-YAFSM
